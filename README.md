@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 this is Jay Khatri, a neo-millenial individual with a flair for technology.
+- 🌱 I’m currently studying in CHARUSAT University
+- 📫 How to reach me: [Twitter](https://twitter.com/jayskhatri)
+- 😄 Pronouns: his/him
 
 <!--
 **jayskhatri/jayskhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
