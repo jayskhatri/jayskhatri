@@ -1,19 +1,18 @@
-### Hi there 👋 this is Jay Khatri, a neo-millenial individual with a flair for technology.
-- 🌱 I’m currently studying in CHARUSAT University
+### Hi there 👋
+
+<a href="https://twitter.com/jayskhatri">
+  <img align="left" alt="Jay Khatri | Twitter" width="21px" src="https://raw.githubusercontent.com/jayskhatri/jayskhatri/master/assets/twitter.svg" />
+</a>
+
+<br />
+<br />
+
+Hi, I'm Jay Khatri, a neo-millenial individual with a flair for technology. I'm from India.
+
+- :100: Take a look at my portfolio site: https://jayskhatri.github.io
+- 💬 Ask me about anything [here](https://github.com/jayskhatri/jayskhatri/issues)
 - 📫 How to reach me: [Twitter](https://twitter.com/jayskhatri)
 - 😄 Pronouns: his/him
 
-<!--
-**jayskhatri/jayskhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jayskhatri&show_icons=true&hide_border=true)
