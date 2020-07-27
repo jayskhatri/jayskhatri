@@ -7,7 +7,8 @@
 <br />
 <br />
 
-Hi, I'm Jay Khatri, a neo-millenial individual with a flair for technology.
+Hi, I'm Jay Khatri, a neo-millenial individual with a flair for technology. Excited you found me on internet!
+I'm looking for an internship from January 2021 onwards. If you're interested, let's talk 👀
 
 - :100: Take a look at my portfolio site: https://jayskhatri.github.io
 - 🏆 Managing and organizing the [Club Gamma](https://github.com/clubgamma/) 
