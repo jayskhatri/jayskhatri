@@ -4,10 +4,11 @@
   <img align="left" alt="Jay Khatri | Twitter" width="21px" src="https://raw.githubusercontent.com/jayskhatri/jayskhatri/master/assets/twitter.svg" />
 </a>
 
-<br />
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayskhatri" alt="jayskhatri" /> </p>
 <br />
 
-Hi, I'm Jay Khatri, a neo-millenial individual with a flair for technology. Excited you found me on internet!
+I'm Jay Khatri, a neo-millenial individual with a flair for technology. Excited you found me on internet!
 
 I'm looking for an internship from January 2021 onwards. If you're interested, let's talk 👀
 
