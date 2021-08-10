@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayskhatri" alt="jayskhatri" /> </p>
 <br />
 
-I'm Jay Khatri, a neo-millenial individual with a flair for technology. Excited you found me on internet!
+I'm Jay Khatri, a neo-millenial individual with a flair for technology. I am pursuing M.Tech. in Computer Science at IIT Guwahati. Excited you found me on internet!
 
 
 - :100: Take a look at my portfolio site: https://jayskhatri.github.io
