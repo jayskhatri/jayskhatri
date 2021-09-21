@@ -12,7 +12,7 @@ I'm Jay Khatri, a neo-millenial individual with a flair for technology. I am pur
 
 
 - :100: Take a look at my portfolio site: https://jayskhatri.github.io
-- 🏆 Managing and organizing the [Club Gamma](https://github.com/clubgamma/) 
+- 🏆 Founder of [Club Gamma](https://github.com/clubgamma/) 
 - 💬 Ask me about anything [here](https://github.com/jayskhatri/jayskhatri/issues)
 - 📫 How to reach me: [Twitter](https://twitter.com/jayskhatri)
 - 😄 Pronouns: his/him
