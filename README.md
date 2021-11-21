@@ -8,8 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayskhatri" alt="jayskhatri" /> </p>
 <br />
 
-I'm Jay Khatri, a neo-millenial individual with a flair for technology. I am pursuing M.Tech. in Computer Science at IIT Guwahati. Excited you found me on internet!
-
+![image](https://user-images.githubusercontent.com/38436564/142757102-b4bf835c-25db-4fd1-9e40-5229194af0ed.png)
 
 - :100: Take a look at my portfolio site: https://jayskhatri.github.io
 - 🏆 Founder of [Club Gamma](https://github.com/clubgamma/) 
