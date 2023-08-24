@@ -13,6 +13,3 @@
 - 💬 Ask me about anything [here](https://github.com/jayskhatri/jayskhatri/issues)
 - 📫 How to reach me: [Twitter](https://twitter.com/jayskhatri)
 - 😄 Pronouns: his/him
-
-
-![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jayskhatri&show_icons=true&hide_border=true)
