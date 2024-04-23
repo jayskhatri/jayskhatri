@@ -10,6 +10,5 @@
 
 - :100: Take a look at my portfolio site: https://jayskhatri.github.io
 - 🏆 Founder of [Club Gamma](https://github.com/clubgamma/) 
-- 💬 Ask me about anything [here](https://github.com/jayskhatri/jayskhatri/issues)
 - 📫 How to reach me: [Twitter](https://twitter.com/jayskhatri)
 - 😄 Pronouns: his/him
